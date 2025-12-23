@@ -1,10 +1,14 @@
+# Secrets
+.env
+
+# Data folders
 data sample of medicine major policy/
 data smaple for international student/
 
-# Ignore PDFs and large/sensitive files
+# Large / generated files
 *.pdf
 *.bin
 *.sqlite3
 
-# Ignore ChromaDB folder (it's big and can be regenerated)
+# ChromaDB (regenerable)
 Embeddings/chromaDB/
