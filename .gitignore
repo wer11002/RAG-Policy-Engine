@@ -1,8 +1,10 @@
 # Secrets
 .env
 
+.DS_Store
+
 # Data folders
-data sample of medicine major policy/
+
 data smaple for international student/
 
 # Large / generated files
